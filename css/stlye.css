@@ -1,3 +1,10 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    h4{
+        text-align: center;
+    }
+ }
+
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
 img{
